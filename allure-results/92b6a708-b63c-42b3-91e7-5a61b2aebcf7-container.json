@@ -1,0 +1,1 @@
+{"uuid":"92b6a708-b63c-42b3-91e7-5a61b2aebcf7","name":"Default suite","children":["9f7ad8ba-b4de-49f3-b0ea-add27af02711"],"befores":[],"afters":[{"name":"sendTestNGReports","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1646606119743,"stop":1646606119743}],"links":[],"start":1646606118180,"stop":1646606119750}
